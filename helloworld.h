@@ -1,0 +1,3 @@
+
+char s[]="HELLO WORLD";
+
